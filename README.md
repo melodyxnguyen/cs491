@@ -6,7 +6,7 @@ In this software engineering capstone course, I am developing web apps following
 # Melody Nguyen 
 
 ## Assignments
-1. Room and House
+1. [Room and House](saltandflower)
 2. Grocery List
 
 
